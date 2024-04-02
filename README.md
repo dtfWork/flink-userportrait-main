@@ -108,10 +108,7 @@ https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Configuratio
 1. 注册中心测试http://localhost:8761
 2. 数据收集测试
 
-    **1）**
-
-    **2）**
-
-3. 
+self:
+1. 网盘有此项目代码和资料。
 
 
