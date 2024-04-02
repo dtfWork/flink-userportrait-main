@@ -109,6 +109,6 @@ https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Configuratio
 2. 数据收集测试
 
 self:
-1. 网盘有此项目代码和资料。
+1. 网盘有此项目的前后端代码和项目视频，资料。
 
 
